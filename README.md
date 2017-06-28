@@ -14,6 +14,7 @@ git clone --recursive git@github.com:AdaptiveCode/AdaptiveCode.git
 - Chapter 2 (No Sample Code)
 - [Chapter 3](https://www.github.com/AdaptiveCode/Chapter3)
 - [Chapter 4](https://www.github.com/AdaptiveCode/Chapter4)
+- [Chapter 5 and 6](https://www.github.com/AdaptiveCode/Chapter5and6)
 
 ## Build Statuses
 
@@ -21,3 +22,5 @@ git clone --recursive git@github.com:AdaptiveCode/AdaptiveCode.git
 - _Chapter 2:_ No sample Code
 - _Chapter 3:_ [![Build status](https://ci.appveyor.com/api/projects/status/caefay9t646r4al0?svg=true)](https://ci.appveyor.com/project/garymcleanhall/chapter3)
 - _Chapter 4:_ [![Build status](https://ci.appveyor.com/api/projects/status/f1xj5uole89aondy?svg=true)](https://ci.appveyor.com/project/garymcleanhall/chapter4)
+- _Chapter 5 and 6:_ [![Build status](https://ci.appveyor.com/api/projects/status/2s94um4yxm6w9fiw?svg=true)](https://ci.appveyor.com/project/garymcleanhall/chapter5and6)
+
