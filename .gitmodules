@@ -16,3 +16,6 @@
 [submodule "Chapter9"]
 	path = Chapter9
 	url = git@github.com:AdaptiveCode/Chapter9.git
+[submodule "Chapter10"]
+	path = Chapter10
+	url = git@github.com:AdaptiveCode/Chapter10.git
