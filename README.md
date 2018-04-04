@@ -11,12 +11,10 @@ git clone --recursive git@github.com:AdaptiveCode/AdaptiveCode.git
 ## Submodule Repositories
 
 - [Chapter 1](https://www.github.com/AdaptiveCode/Chapter1)
-- Chapter 2 (No sample code)
 - [Chapter 3](https://www.github.com/AdaptiveCode/Chapter3)
 - [Chapter 4](https://www.github.com/AdaptiveCode/Chapter4)
 - [Chapter 5 and 6](https://www.github.com/AdaptiveCode/Chapter5and6)
 - [Chapter 7](https://www.github.com/AdaptiveCode/Chapter7)
-- Chapter 8 (Sample code in progress)
 - [Chapter 9](https://www.github.com/AdaptiveCode/Chapter9)
 - [Chapter 10](https://www.github.com/AdaptiveCode/Chapter10)
 
