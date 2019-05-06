@@ -184,3 +184,5 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 builds/
+
+.vs/
