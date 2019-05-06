@@ -1,0 +1,16 @@
+﻿using System.Web;
+using System.Web.Mvc;
+using System.Web.Routing;
+
+namespace StairwayPattern
+{
+    public class MvcApplication : HttpApplication
+    {
+        protected void Application_Start()
+        {
+            ControllerBuilder.Current.SetControllerFactory(typeof(ManualConstructionControllerFactory));
+            AreaRegistration.RegisterAllAreas();
+            RouteConfig.RegisterRoutes(RouteTable.Routes);
+        }
+    }
+}
